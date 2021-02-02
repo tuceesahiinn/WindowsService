@@ -1,0 +1,13 @@
+﻿'C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\bin\Debug\WindowsServiceDeneme.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\bin\Debug\WindowsServiceDeneme.InstallLog
+   assemblypath = C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\bin\Debug\WindowsServiceDeneme.exe
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\bin\Debug\WindowsServiceDeneme.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\bin\Debug\WindowsServiceDeneme.InstallLog
+   assemblypath = C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\bin\Debug\WindowsServiceDeneme.exe

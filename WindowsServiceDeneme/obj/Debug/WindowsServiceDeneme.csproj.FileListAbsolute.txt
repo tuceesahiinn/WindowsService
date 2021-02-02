@@ -1,0 +1,8 @@
+C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\bin\Debug\WindowsServiceDeneme.exe.config
+C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\bin\Debug\WindowsServiceDeneme.exe
+C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\bin\Debug\WindowsServiceDeneme.pdb
+C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\obj\Debug\WindowsServiceDeneme.ProjectInstaller.resources
+C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\obj\Debug\WindowsServiceDeneme.csproj.GenerateResource.cache
+C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\obj\Debug\WindowsServiceDeneme.csproj.CoreCompileInputs.cache
+C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\obj\Debug\WindowsServiceDeneme.exe
+C:\Users\demo\source\repos\WindowsServiceDeneme\WindowsServiceDeneme\obj\Debug\WindowsServiceDeneme.pdb
